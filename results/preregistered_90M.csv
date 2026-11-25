@@ -1,0 +1,5 @@
+variant,fit,predicted_delta_pct_at_90M
+combo_conv3,linear,-24.759
+combo_conv3,quadratic,-31.894
+combo_diff,linear,-3.898
+combo_diff,quadratic,-38.401

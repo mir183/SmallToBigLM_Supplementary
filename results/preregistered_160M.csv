@@ -1,0 +1,7 @@
+variant,fit,predicted_delta_pct_at_163M
+combo_conv3,linear,-9.662
+combo_conv3,saturating,-9.675
+combo_diff,linear,-6.634
+combo_diff,saturating,0.801
+combo_mtp,linear,0.623
+combo_mtp,saturating,2.495

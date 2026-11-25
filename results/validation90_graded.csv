@@ -1,0 +1,3 @@
+variant,actual_pct,pred_linear_pct,pred_quad_pct,n_seeds
+combo_conv3,-9.855,-24.759,-31.894,2
+combo_diff,1.482,-3.898,-38.401,2

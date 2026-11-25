@@ -1,0 +1,3 @@
+variant,fit,predicted_delta_pct_at_91M
+combo_mtp,linear,0.524
+combo_mtp,saturating,5.739

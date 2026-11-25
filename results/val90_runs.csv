@@ -1,0 +1,7 @@
+variant,seed,params_M,val_ppl
+combo,0,91.341,46.3272
+combo_conv3,0,91.387,41.6800
+combo_diff,0,91.343,47.3590
+combo,1,91.341,46.0134
+combo_conv3,1,91.387,41.5603
+combo_diff,1,91.343,46.3521

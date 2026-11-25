@@ -1,0 +1,13 @@
+size,variant,seed,params_M,val_ppl
+3M,combo,0,5.254,126.5996
+3M,combo,1,5.254,126.1628
+3M,combo_conv3,0,5.259,150.0949
+3M,combo_conv3,1,5.259,153.5926
+3M,combo_diff,0,5.254,165.7824
+3M,combo_diff,1,5.254,166.7184
+10M,combo,0,10.016,110.2308
+10M,combo,1,10.016,109.9368
+10M,combo_conv3,0,10.026,123.9270
+10M,combo_conv3,1,10.026,124.3711
+10M,combo_diff,0,10.017,141.9184
+10M,combo_diff,1,10.017,141.6818

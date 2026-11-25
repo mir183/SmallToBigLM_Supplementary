@@ -1,0 +1,3 @@
+variant,slope_pct_per_decade,pred_at_29.4M_pct,actual_at_29.4M_pct,error_pp,implied_crossover_M
+combo_conv3,-26.312,0.470,-10.231,10.701,30.6
+combo_diff,-9.767,24.243,3.951,20.292,8925.3

@@ -1,0 +1,4 @@
+variant,actual_pct,pred_linear,pred_saturating,n_seeds
+combo_conv3,-8.967,-9.662,-9.675,2
+combo_diff,0.299,-6.634,0.801,2
+combo_mtp,2.152,0.623,2.495,2

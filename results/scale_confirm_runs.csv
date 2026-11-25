@@ -1,0 +1,5 @@
+config,params_M,val_ppl
+baseline,29.414,61.7871
+combo,29.407,55.1359
+combo_conv3,29.428,49.7225
+combo_diff,29.409,58.5483

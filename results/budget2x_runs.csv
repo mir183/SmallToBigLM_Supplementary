@@ -1,0 +1,16 @@
+size,variant,seed,params_M,val_ppl
+10M,combo,0,10.016,48.2458
+10M,combo,1,10.016,48.0841
+10M,combo_conv3,0,10.026,48.3289
+10M,combo_conv3,1,10.026,48.4021
+10M,combo_diff,0,10.017,51.5369
+10M,combo_diff,1,10.017,53.4661
+30M,combo,0,29.407,39.2003
+30M,combo,1,29.407,38.7176
+30M,combo_conv3,0,29.428,37.7746
+30M,combo_conv3,1,29.428,37.8601
+30M,combo_diff,0,29.409,39.7844
+30M,combo_diff,1,29.409,39.6704
+90M,combo,0,91.341,34.2098
+90M,combo_conv3,0,91.387,34.0324
+90M,combo_diff,0,91.343,34.8351
